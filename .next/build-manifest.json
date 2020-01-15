@@ -20,7 +20,11 @@
       "static/runtime/polyfills.js",
       "static/runtime/polyfills.js.map"
     ],
-    "/hello": [
+    "/about": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/hireme": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
